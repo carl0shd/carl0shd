@@ -2,7 +2,7 @@
 
 ![Aviation](https://img.shields.io/badge/Aviation-Enthusiastic-blue)
 ![Hardware](https://img.shields.io/badge/Hardware-Fan-orange)
-![TypeScript](https://img.shields.io/badge/TypeScript-Devoted-lightgrey)
+![TypeScript](https://img.shields.io/badge/TypeScript-Fan-lightgrey)
 
 - 🧑🏽‍💻 Currently working on [Monoku](https://monoku.com) 💜 <img align="center" src="https://i.imgur.com/dOdkSdj.png" width="10" />
 - 📱 Software and Hardware passionate
