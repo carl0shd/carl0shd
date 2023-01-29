@@ -1,5 +1,6 @@
-# Hi there 👋
+# Hola 👋
 
-- 🧑🏽‍💻 Currently working on [Monoku](https://monoku.com) 💜 <img align="center" src="https://i.imgur.com/dOdkSdj.png" width="10" />
+- 🧑🏽‍💻 Frontend engineer [Monoku](https://github.com/monoku) 💜
+- 🛫 Tech director [TCA Venezuela](https://github.com/tcavenezuela) ✈️
 - 📱 Software and Hardware passionate
-- ✈️ Aviation enthusiastic
+- 🛩️ Aviation enthusiastic
